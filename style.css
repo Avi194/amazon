@@ -61,3 +61,14 @@
     background-color: gray;
     color: whitesmoke;  
 }
+.nav3 a{
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    padding: 16px 40px ;
+    border: solid;
+}
+.nav3 a:hover{
+    background-color: gray;
+    color: whitesmoke;
+}
